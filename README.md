@@ -1,12 +1,10 @@
-<div align="center">
+**<div align="center">
 
-# 👋 Hi, I'm Paidguy
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:22d3ee&height=90&section=header&text=Paidguy&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=480&lines=Student+Developer;AI-Assisted+Builder;Telegram+Bot+Developer;Automation+Focused" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=520&lines=Student+Developer;AI-Assisted+Builder;Telegram+Bot+Developer;Automation+and+Tools" />
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Paidguy&style=for-the-badge&color=00D9FF"/>
+<img src="https://komarev.com/ghpvc/?username=Paidguy&style=for-the-badge&color=0ea5e9"/>
 
 </div>
 
@@ -16,11 +14,11 @@
 
 <div align="center">
 
-🎓 Student developer based in **India**  
-🤖 Focused on **AI-assisted development workflows**  
-🛠️ Building **Telegram bots**, **automation tools**, and **web apps**  
-🌱 Learning modern frameworks and scalable design  
-🤝 Open to meaningful collaborations  
+🎓 Student developer from **India**  
+🤖 Strong focus on **AI-assisted development**  
+🛠️ Building **Telegram bots**, **automation tools**, and **utility software**  
+🌱 Learning scalable architectures and modern frameworks  
+🤝 Interested in collaborations and open-source work  
 
 </div>
 
@@ -42,7 +40,7 @@
 ### 🤖 AI & Specialty
 <img src="https://skillicons.dev/icons?i=telegram&theme=dark" />
 <br/>
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT-0ea5e9?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-CA8A58?style=for-the-badge&logo=anthropic&logoColor=white"/>
 
 </div>
@@ -55,23 +53,33 @@
 
 ### 📦 Telegram Content Manager
 
-🔗 https://github.com/Paidguy/TelegramRestrictionBypass
+A Telegram automation tool built for **content handling, archival, and high-volume media workflows**.
 
-A Telegram automation tool focused on **content management, archival, and large-scale media workflows**.
+🔗 https://github.com/Paidguy/TelegramRestrictionBypass
 
 </div>
 
-### Key Capabilities
-- Intelligent FloodWait & rate-limit handling
-- Multi-session / multi-account architecture
-- Optimized TgCrypto media processing
-- Automated content downloading & organization
+### Highlights
+- FloodWait & rate-limit aware processing  
+- Multi-session and multi-account architecture  
+- Optimized TgCrypto media pipelines  
+- Automated content organization  
 
 <div align="center">
 
-<img src="https://img.shields.io/github/stars/Paidguy/TelegramRestrictionBypass?style=for-the-badge&color=00D9FF"/>
-<img src="https://img.shields.io/github/forks/Paidguy/TelegramRestrictionBypass?style=for-the-badge&color=00D9FF"/>
-<img src="https://img.shields.io/github/issues/Paidguy/TelegramRestrictionBypass?style=for-the-badge&color=00D9FF"/>
+<img src="https://img.shields.io/github/stars/Paidguy/TelegramRestrictionBypass?style=for-the-badge&color=0ea5e9"/>
+<img src="https://img.shields.io/github/forks/Paidguy/TelegramRestrictionBypass?style=for-the-badge&color=0ea5e9"/>
+<img src="https://img.shields.io/github/issues/Paidguy/TelegramRestrictionBypass?style=for-the-badge&color=0ea5e9"/>
+
+</div>
+
+---
+
+## 📌 Pinned Work
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Paidguy&repo=TelegramRestrictionBypass&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -81,64 +89,37 @@ A Telegram automation tool focused on **content management, archival, and large-
 
 <div align="center">
 
-🔹 Telegram automation & tooling  
+🔹 Telegram automation systems  
 🔹 AI-assisted coding workflows  
-🔹 Web application development  
-🔹 Open-source contributions  
-🔹 Performance & reliability improvements  
+🔹 Backend-heavy tooling  
+🔹 Open-source experimentation  
+🔹 Performance and reliability  
 
 </div>
 
 ---
 
-## 📊 GitHub Stats (Stable)
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Paidguy&show_icons=true&theme=tokyonight&hide_border=true"
-  height="165"
-/>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com?user=Paidguy&theme=tokyonight&hide_border=true"
-  height="165"
-/>
-
-</div>
-
----
-
-## 📫 Connect With Me
+## 📫 Connect
 
 <div align="center">
 
 <a href="https://t.me/paidguy">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegram-0ea5e9?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 <a href="https://x.com/imhqt">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 <a href="https://github.com/Paidguy">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 💡 Philosophy
-
 <div align="center">
 
-> *Build practical tools. Learn deeply. Improve continuously.*
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Happy%20Coding!&fontSize=36&fontColor=ffffff"/>
-
-</div>
+**
