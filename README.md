@@ -1,150 +1,176 @@
 <div align="center">
-
-<!-- SOCIALS ON TOP -->
-<a href="https://github.com/Paidguy">
-  <img src="https://img.shields.io/badge/GitHub-0b0f19?style=for-the-badge&logo=github&logoColor=22d3ee"/>
-</a>
-<a href="https://t.me/paidguy">
-  <img src="https://img.shields.io/badge/Telegram-0b0f19?style=for-the-badge&logo=telegram&logoColor=22d3ee"/>
-</a>
-<a href="https://x.com/imhqt">
-  <img src="https://img.shields.io/badge/X-0b0f19?style=for-the-badge&logo=x&logoColor=22d3ee"/>
-</a>
-
-<br/><br/>
-
-<!-- CYBERPUNK HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=PAIDGUY&fontSize=56&fontColor=22d3ee&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=22d3ee&center=true&vCenter=true&width=560&lines=Student+Developer;AI-Assisted+Builder;Telegram+Automation;Cyber+Tooling+and+Systems"/>
-
-<img src="https://komarev.com/ghpvc/?username=Paidguy&style=for-the-badge&color=22d3ee"/>
-
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hey, I'm Paidguy!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=Student+Developer+%F0%9F%8E%93;AI-Powered+Coding+%F0%9F%A4%96;Telegram+Bot+Expert+%F0%9F%93%B1;Building+Cool+Stuff+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+![Profile Views](https://komarev.com/ghpvc/?username=Paidguy&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 </div>
-
 ---
-
-## 🧠 ABOUT
-
-<div align="center">
-
-🎓 Student developer from **India**  
-🤖 Building with **AI-assisted workflows**  
-🛠️ Telegram bots, automation systems, backend tools  
-🌱 Focused on performance, structure, and scalability  
-🤝 Open to collaboration and open-source projects  
-
-</div>
-
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+- 🎓 **Student Developer** passionate about coding
+- 🤖 Using **AI to supercharge** my development workflow
+- 🛠️ Building **Telegram bots**, **websites**, and **apps**
+- 🌱 Always **learning** new technologies
+- 💡 Creating tools that **solve real problems**
+- ⚡ **AI-assisted coding** enthusiast
+- 🎯 Open to **collaborations** and **fun projects**
+- 🇮🇳 Based in **India**
+<br clear="right"/>
 ---
-
-## ⚙️ TECH STACK
-
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
 <div align="center">
-
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,js,ts,java&theme=dark"/>
-
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark"/>
-
-### 🔧 Backend & Tools
-<img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode&theme=dark"/>
-
-### 🤖 AI & TELEGRAM
-<img src="https://skillicons.dev/icons?i=telegram&theme=dark"/>
-<br/>
-<img src="https://img.shields.io/badge/ChatGPT-0b0f19?style=for-the-badge&logo=openai&logoColor=22d3ee"/>
-<img src="https://img.shields.io/badge/Claude-0b0f19?style=for-the-badge&logo=anthropic&logoColor=ca8a58"/>
-
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### ⚙️ Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🤖 AI & Specialty
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CA8A58?style=for-the-badge&logo=anthropic&logoColor=white)
 </div>
-
 ---
-
-## 🚀 FEATURED PROJECT
-
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Featured Projects
 <div align="center">
-
-### 📦 Telegram Content Manager
-
-High-volume Telegram automation focused on **content handling, archival, and media workflows**.
-
-🔗 https://github.com/Paidguy/TelegramRestrictionBypass
-
+### 🚀 [Telegram Restriction Bypass](https://github.com/Paidguy/TelegramRestrictionBypass)
+**Advanced tool to bypass Telegram content restrictions**
+🔹 Intelligent FloodWait protection
+🔹 Multi-account rotation system
+🔹 High-speed TgCrypto processing
+🔹 Automated content downloading
+[![Stars](https://img.shields.io/github/stars/Paidguy/TelegramRestrictionBypass?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117)](https://github.com/Paidguy/TelegramRestrictionBypass/stargazers)
+[![Forks](https://img.shields.io/github/forks/Paidguy/TelegramRestrictionBypass?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117)](https://github.com/Paidguy/TelegramRestrictionBypass/network/members)
+[![Issues](https://img.shields.io/github/issues/Paidguy/TelegramRestrictionBypass?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117)](https://github.com/Paidguy/TelegramRestrictionBypass/issues)
+[![Language](https://img.shields.io/github/languages/top/Paidguy/TelegramRestrictionBypass?style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/Paidguy/TelegramRestrictionBypass)
 </div>
-
-### Core Capabilities
-- FloodWait & rate-limit aware processing  
-- Multi-session and multi-account systems  
-- TgCrypto-accelerated media pipelines  
-- Automated content organization  
-
-<div align="center">
-
-<img src="https://img.shields.io/github/stars/Paidguy/TelegramRestrictionBypass?style=for-the-badge&color=22d3ee"/>
-<img src="https://img.shields.io/github/forks/Paidguy/TelegramRestrictionBypass?style=for-the-badge&color=22d3ee"/>
-<img src="https://img.shields.io/github/issues/Paidguy/TelegramRestrictionBypass?style=for-the-badge&color=22d3ee"/>
-
-</div>
-
 ---
-
-## 📊 GITHUB DASHBOARD (DARK)
-
+## 💻 Current Focus
 <div align="center">
-
-<img src="https://metrics.lecoq.io/Paidguy?template=classic&base.header=0&base.activity=1&base.community=0&languages=1&repositories=1&config.timezone=Asia%2FKolkata&config.display=large"/>
-
+```python
+class Paidguy:
+    def __init__(self):
+        self.name = "Paidguy"
+        self.role = "Student Developer"
+        self.location = "India 🇮🇳"
+        self.coding_style = "AI-Assisted Development"
+       
+    def current_projects(self):
+        return {
+            "Telegram Bots": "Building powerful automation tools",
+            "Web Apps": "Creating modern web applications",
+            "Mobile Apps": "Developing cross-platform solutions",
+            "Open Source": "Contributing to the community"
+        }
+   
+    def tech_stack(self):
+        return {
+            "languages": ["Python", "JavaScript", "TypeScript", "Java"],
+            "frontend": ["React", "HTML5", "CSS3", "Tailwind CSS"],
+            "backend": ["Node.js"],
+            "tools": ["Git", "GitHub", "VS Code"],
+            "ai_tools": ["ChatGPT", "Claude"],
+            "specialty": ["Telegram Bot Development"]
+        }
+   
+    def daily_routine(self):
+        activities = [
+            "☕ Morning coffee + code review",
+            "🚀 Building cool projects",
+            "🧠 Learning new technologies",
+            "🤝 Collaborating with developers",
+            "🌙 Late night coding sessions"
+        ]
+        return activities
+   
+    def motto(self):
+        return "Coding for fun, learning for growth, building for impact! ✨"
+```
 </div>
-
 ---
-
-## 📈 LANGUAGE DISTRIBUTION
-
+## 🎯 What Drives Me
 <div align="center">
-
-<img src="https://metrics.lecoq.io/Paidguy?template=classic&languages=1&languages.limit=8&languages.details=percentage&languages.colors=github"/>
-
+| 🔧 Building Tools | 🌱 Learning Tech | 🤝 Open Source | 🎨 Side Projects | 🤖 AI Coding |
+|:---:|:---:|:---:|:---:|:---:|
+| Solve real problems | Stay cutting-edge | Give back to community | Create for fun | Code smarter |
+| Automation & bots | Latest frameworks | Contribute actively | Experiment freely | Use AI assistants |
 </div>
-
 ---
-
-## 🔍 FOCUS AREAS
-
+## 🌟 What I'm Working On
 <div align="center">
-
-| Area | Focus |
-|----|----|
-| 🤖 Automation | Bots, scripts, workflows |
-| 📱 Telegram | Content tools & utilities |
-| 🧠 AI | AI-assisted coding |
-| ⚙️ Backend | Performance & reliability |
-| 🌐 Web | React + Tailwind UI |
-
+```mermaid
+mindmap
+  root((Paidguy))
+    Telegram Bots
+      Automation Tools
+      Content Management
+      User Engagement
+    Web Development
+      React Applications
+      Responsive Design
+      Modern UI/UX
+    Learning
+      AI Tools
+      New Frameworks
+      Best Practices
+    Open Source
+      Contributions
+      Collaborations
+      Community Projects
+```
 </div>
-
 ---
-
-## 🛠️ BUILD PROCESS
-
+## 📫 Connect With Me
 <div align="center">
-
-**Problem first**  
-↓  
-**Prototype fast**  
-↓  
-**AI-assisted iteration**  
-↓  
-**Refactor & harden**  
-↓  
-**Ship & improve**
-
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/paidguy)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/imhqt)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paidguy)
+### 💬 Let's Collaborate!
+I'm always interested in:
+- 🤖 Building Telegram bots
+- 🌐 Creating web applications
+- 📱 Developing mobile apps
+- 🛠️ Automation projects
+- 🎯 Learning new technologies
+**Feel free to reach out on Telegram for collaborations!**
 </div>
-
 ---
-
+## 💡 Coding Philosophy
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="720"/>
-
+> *"The best code is the code that solves real problems for real people."*
+</div>
+<div align="center">
+### 🎨 My Development Approach
+**Start with the problem** → **Leverage AI tools** → **Build iteratively** → **Share openly**
+</div>
+---
+## 📊 Quick Stats
+<div align="center">
+| 📈 Metric | 📊 Value |
+|:---|:---|
+| 🗂️ **Public Repos** | 2+ |
+| ⭐ **Total Stars** | Growing |
+| 🔀 **Total Forks** | Active |
+| 👥 **Followers** | Building Community |
+| 🤝 **Following** | 3+ |
+| 📅 **Joined GitHub** | 2023 |
+</div>
+---
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+### ⚡ *"Coding for fun, learning for growth, building for impact!"* ⚡
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+**Thanks for visiting! Feel free to explore my repos and reach out for collaborations! 🚀**
+![GitHub followers](https://img.shields.io/github/followers/Paidguy?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/Paidguy?style=social)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Happy%20Coding!&fontSize=40&fontColor=fff&animation=twinkling"/>
 </div>
