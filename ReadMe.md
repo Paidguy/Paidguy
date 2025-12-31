@@ -1,5 +1,5 @@
 # 💫 About Me:
-Self-taught developer from India 🇮🇳 — no formal background, just vibe coding and shipping tools with AI help 🤖.<br><br><br>l
+Self-taught developer from India 🇮🇳 — no formal background, just vibe coding and shipping tools with AI help 🤖.<br><br><br>
 
 
 ## 🌐 Socials:
