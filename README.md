@@ -19,7 +19,7 @@
 ```yaml
 name: Paidguy
 role: Student Developer
-location: India
+location: India 🇮🇳
 status: Building cool stuff 🚀
 
 current_focus:
@@ -73,13 +73,20 @@ motto: "Coding for fun, learning for growth!"
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Paidguy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Paidguy&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak" />
+  
+  <!-- Using multiple cache-busting parameters for better reliability -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Paidguy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
+  
+  <img width="49%" src="https://streak-stats.demolab.com?user=Paidguy&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  
 </div>
 
 <div align="center">
+  
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paidguy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Paidguy&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
+  
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Paidguy&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Contributed Repos" />
+  
 </div>
 
 ---
@@ -104,6 +111,10 @@ motto: "Coding for fun, learning for growth!"
 Advanced tool to bypass Telegram content restrictions with intelligent FloodWait protection,  
 multi-account rotation, and high-speed TgCrypto processing! ⚡
 
+[![Stars](https://img.shields.io/github/stars/Paidguy/TelegramRestrictionBypass?style=for-the-badge&logo=github&color=00D9FF)](https://github.com/Paidguy/TelegramRestrictionBypass/stargazers)
+[![Forks](https://img.shields.io/github/forks/Paidguy/TelegramRestrictionBypass?style=for-the-badge&logo=github&color=00D9FF)](https://github.com/Paidguy/TelegramRestrictionBypass/network/members)
+[![Issues](https://img.shields.io/github/issues/Paidguy/TelegramRestrictionBypass?style=for-the-badge&logo=github&color=00D9FF)](https://github.com/Paidguy/TelegramRestrictionBypass/issues)
+
 </div>
 
 ---
@@ -119,6 +130,9 @@ class Paidguy:
         self.username = "Paidguy"
         self.location = "India 🇮🇳"
         self.learning_style = "AI-Assisted Coding"
+        self.repositories = 2
+        self.followers = 1
+        self.following = 3
         
     def current_projects(self):
         return [
@@ -134,6 +148,15 @@ class Paidguy:
             "afternoon": "🚀 Build Cool Stuff",
             "evening": "🧠 Learn New Tech",
             "night": "🌙 More Coding!"
+        }
+    
+    def tech_stack(self):
+        return {
+            "languages": ["Python", "JavaScript", "TypeScript", "Java"],
+            "frontend": ["React", "HTML5", "CSS3", "Tailwind"],
+            "backend": ["Node.js"],
+            "tools": ["Git", "VS Code"],
+            "ai_tools": ["ChatGPT", "Claude"]
         }
     
     def get_motivation(self):
@@ -182,11 +205,18 @@ class Paidguy:
 
 ---
 
-## 📊 Contribution Graph
+## 📊 Contribution Activity
 
 <div align="center">
-  
-![](https://github-readme-activity-graph.vercel.app/graph?username=Paidguy&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&title_color=00D9FF)
+
+<!-- Alternative contribution graph with better reliability -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Paidguy/Paidguy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Paidguy/Paidguy/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Paidguy/Paidguy/output/github-contribution-grid-snake.svg">
+</picture>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Paidguy&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&title_color=00D9FF" alt="Contribution Graph" width="98%" />
 
 </div>
 
@@ -209,6 +239,8 @@ class Paidguy:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/paidguy)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/imhqt)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paidguy)
+
+**📧 Want to collaborate? Reach out on Telegram!**
 
 </div>
 
