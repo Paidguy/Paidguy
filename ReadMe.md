@@ -1,5 +1,5 @@
 # 💫 About Me:
-Self-taught developer from India 🇮🇳 — no formal background, just vibe coding and shipping tools with AI help 🤖.<br><br><br>🔭 Building advanced Telegram tools<br>🌱 Learning AI integrations & Python optimization<br>👯 Open to collabs on bots or automation<br>📫 Reach me: Telegram @paidguy<br>⚡ Fun fact: AI is my daily pair programmer!<br><br>Coding for fun, learning for growth, building for impact! ✨
+Self-taught developer from India 🇮🇳 — no formal background, just vibe coding and shipping tools with AI help 🤖.<br><br><br>l
 
 
 ## 🌐 Socials:
