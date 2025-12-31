@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Paidguy
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Student+Developer;AI-Assisted+Builder;Telegram+Bot+Developer;Automation+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=480&lines=Student+Developer;AI-Assisted+Builder;Telegram+Bot+Developer;Automation+Focused" />
 
 <br/>
 
@@ -17,10 +17,10 @@
 <div align="center">
 
 🎓 Student developer based in **India**  
-🤖 Focused on **AI-assisted development**  
+🤖 Focused on **AI-assisted development workflows**  
 🛠️ Building **Telegram bots**, **automation tools**, and **web apps**  
-🌱 Learning modern frameworks and best practices  
-🤝 Open to collaborations and open-source work  
+🌱 Learning modern frameworks and scalable design  
+🤝 Open to meaningful collaborations  
 
 </div>
 
@@ -41,6 +41,7 @@
 
 ### 🤖 AI & Specialty
 <img src="https://skillicons.dev/icons?i=telegram&theme=dark" />
+<br/>
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-CA8A58?style=for-the-badge&logo=anthropic&logoColor=white"/>
 
@@ -54,7 +55,7 @@
 
 ### 📦 Telegram Content Manager
 
-🔗 **https://github.com/Paidguy/TelegramRestrictionBypass**
+🔗 https://github.com/Paidguy/TelegramRestrictionBypass
 
 A Telegram automation tool focused on **content management, archival, and large-scale media workflows**.
 
@@ -63,7 +64,7 @@ A Telegram automation tool focused on **content management, archival, and large-
 ### Key Capabilities
 - Intelligent FloodWait & rate-limit handling
 - Multi-session / multi-account architecture
-- High-performance TgCrypto media processing
+- Optimized TgCrypto media processing
 - Automated content downloading & organization
 
 <div align="center">
@@ -90,13 +91,19 @@ A Telegram automation tool focused on **content management, archival, and large-
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats (Stable)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Paidguy&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Paidguy&show_icons=true&theme=tokyonight&hide_border=true"
+  height="165"
+/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Paidguy&theme=tokyonight&hide_border=true" height="160"/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com?user=Paidguy&theme=tokyonight&hide_border=true"
+  height="165"
+/>
 
 </div>
 
