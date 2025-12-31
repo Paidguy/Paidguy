@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:22d3ee&height=110&section=header&text=Paidguy&fontSize=44&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:22d3ee&height=90&section=header&text=Paidguy&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=560&lines=Student+Developer;AI-Assisted+Builder;Telegram+Bot+Developer;Automation+and+Tooling;Learning+by+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=520&lines=Student+Developer;AI-Assisted+Builder;Telegram+Bot+Developer;Automation+and+Tools" />
 
 <img src="https://komarev.com/ghpvc/?username=Paidguy&style=for-the-badge&color=0ea5e9"/>
 
@@ -15,10 +15,10 @@
 <div align="center">
 
 🎓 Student developer from **India**  
-🤖 Heavy focus on **AI-assisted development workflows**  
-🛠️ Building **Telegram bots**, **automation systems**, and **utility tools**  
-🌱 Exploring scalable architectures and performance-oriented design  
-🤝 Open to collaboration, experimentation, and open-source work  
+🤖 Strong focus on **AI-assisted development**  
+🛠️ Building **Telegram bots**, **automation tools**, and **utility software**  
+🌱 Learning scalable architectures and modern frameworks  
+🤝 Interested in collaborations and open-source work  
 
 </div>
 
@@ -53,17 +53,17 @@
 
 ### 📦 Telegram Content Manager
 
-A Telegram automation tool designed for **content handling, archival, and high-volume media workflows**.
+A Telegram automation tool built for **content handling, archival, and high-volume media workflows**.
 
 🔗 https://github.com/Paidguy/TelegramRestrictionBypass
 
 </div>
 
-### What it focuses on
-- FloodWait and rate-limit aware processing  
-- Multi-session / multi-account handling  
-- TgCrypto-accelerated media pipelines  
-- Automated content downloading and organization  
+### Highlights
+- FloodWait & rate-limit aware processing  
+- Multi-session and multi-account architecture  
+- Optimized TgCrypto media pipelines  
+- Automated content organization  
 
 <div align="center">
 
@@ -75,55 +75,25 @@ A Telegram automation tool designed for **content handling, archival, and high-v
 
 ---
 
-## 📊 GitHub Overview
+## 📌 Pinned Work
 
 <div align="center">
 
-<img src="https://metrics.lecoq.io/Paidguy?template=classic&languages=1&activity=1&community=0&repositories=1&metadata=0&config.timezone=Asia%2FKolkata" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Paidguy&repo=TelegramRestrictionBypass&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📈 Language Usage
+## 🎯 Current Focus
 
 <div align="center">
 
-<img src="https://metrics.lecoq.io/Paidguy?template=classic&languages=1&languages.limit=6&languages.threshold=0%25&languages.colors=github&languages.details=percentage" />
-
-</div>
-
----
-
-## 🔍 Development Focus Areas
-
-<div align="center">
-
-| Area | Description |
-|----|----|
-| 🤖 Automation | Bots, scripts, workflow tooling |
-| 📱 Telegram | Bots, content tools, utilities |
-| 🧠 AI Usage | AI-assisted coding & debugging |
-| ⚙️ Backend | Performance, reliability, structure |
-| 🌐 Web | Modern UI with React & Tailwind |
-
-</div>
-
----
-
-## 🛠️ How I Work
-
-<div align="center">
-
-**Problem-first thinking**  
-↓  
-**Prototype quickly**  
-↓  
-**Leverage AI for iteration**  
-↓  
-**Refactor for clarity & performance**  
-↓  
-**Ship and improve**
+🔹 Telegram automation systems  
+🔹 AI-assisted coding workflows  
+🔹 Backend-heavy tooling  
+🔹 Open-source experimentation  
+🔹 Performance and reliability  
 
 </div>
 
@@ -149,6 +119,6 @@ A Telegram automation tool designed for **content handling, archival, and high-v
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="750"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 
 </div>
