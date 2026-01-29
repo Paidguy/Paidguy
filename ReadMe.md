@@ -67,35 +67,35 @@ const paidguy = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=paidguy&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=paidguy&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paidguy&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=paidguy&show_icons=true&count_private=true&hide_border=true&title_color=fa8b00&icon_color=fa8b00&text_color=c9d1d9&bg_color=0d1117" alt="paidguy github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paidguy&layout=compact&hide_border=true&title_color=fa8b00&text_color=fa8b00&bg_color=0d1117" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## 📈 Contribution Graph
+## 🔥 Streak Stats
 
 <div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=paidguy&bg_color=0d1117&color=fa8b00&line=fa8b00&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
-
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=paidguy&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=800" alt="GitHub Streak Stats" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## 💻 Coding Metrics
+## 📈 Activity Graph
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paidguy&bg_color=0d1117&color=fa8b00&line=fa8b00&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paidguy&theme=radical" alt="Profile Details" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
+## 💻 Profile Summary
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paidguy&theme=radical" alt="Profile Summary" width="100%"/>
 </div>
 
 <div align="center">
@@ -113,9 +113,7 @@ const paidguy = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=paidguy&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=paidguy&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
@@ -123,9 +121,7 @@ const paidguy = {
 ## 🔝 Top Contributed Repos
 
 <div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=paidguy&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true)
-
+  <img src="https://github-contributor-stats.vercel.app/api?username=paidguy&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
@@ -133,66 +129,60 @@ const paidguy = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/paidguy/paidguy/output/github-contribution-grid-snake-dark.svg)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paidguy/paidguy/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paidguy/paidguy/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paidguy/paidguy/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
-> **Note:** The snake animation will appear after you set up the GitHub Action. See the setup guide for instructions.
+> **Note:** Snake animation requires GitHub Actions setup. See [setup guide](#-setup-snake-animation) below.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## ✍️ Dev Wisdom
+## ✍️ Random Dev Quote
 
 <div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-## 💡 Random Dev Joke
-
-<div align="center">
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## 🔥 Streak Stats
+## 😄 Random Dev Joke
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=paidguy&theme=radical&hide_border=true&border_radius=10&card_width=800" alt="Streak Stats" width="100%"/>
-
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## 👀 Profile Views & Visitors
+## 👀 Profile Views
 
 <div align="center">
-
+  
 [![](https://visitcount.itsvg.in/api?id=paidguy&icon=5&color=6)](https://visitcount.itsvg.in)
 
-<img src="https://komarev.com/ghpvc/?username=paidguy&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=paidguy&label=Profile%20Views&color=brightgreen&style=for-the-badge)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## 📊 GitHub Metrics
+
+<div align="center">
+
+![Metrics](https://metrics.lecoq.io/paidguy?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.timezone=Asia%2FKolkata)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+<div align="center">
 
 ## 💭 Quote of the Day
 
-<div align="center">
-
 ### ⚡ "Code is like humor. When you have to explain it, it's bad."
-
-</div>
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=75&animation=twinkling&fontColor=ffffff"/>
 
@@ -208,3 +198,17 @@ const paidguy = {
 [![GitHub stars](https://img.shields.io/github/stars/paidguy?style=social)](https://github.com/paidguy)
 
 </div>
+
+---
+
+## 🔧 Setup Snake Animation
+
+If you want the contribution snake animation:
+
+1. Create `.github/workflows/snake.yml` in your repository
+2. Add the workflow file (provided separately)
+3. Go to Settings → Actions → General
+4. Enable "Read and write permissions"
+5. Run the workflow manually from Actions tab
+
+The snake will appear after the first successful run!
