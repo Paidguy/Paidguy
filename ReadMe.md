@@ -1,4 +1,4 @@
-<div align="center">
+a<div align="center">
 
 # 👋 Hey, I'm paidguy
 
@@ -79,7 +79,7 @@ const paidguy = {
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=paidguy&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=800" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=paidguy&theme=radical&hide_border=true&card_width=800" alt="GitHub Streak Stats" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
@@ -88,40 +88,6 @@ const paidguy = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=paidguy&bg_color=0d1117&color=fa8b00&line=fa8b00&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-## 💻 Profile Summary
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paidguy&theme=radical" alt="Profile Summary" width="100%"/>
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paidguy&theme=radical" alt="Repos per Language"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paidguy&theme=radical" alt="Most Commit Language"/>
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=paidguy&theme=radical" alt="Stats"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=paidguy&theme=radical" alt="Productive Time"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=paidguy&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=paidguy&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
@@ -136,7 +102,9 @@ const paidguy = {
   </picture>
 </div>
 
-> **Note:** Snake animation requires GitHub Actions setup. See [setup guide](#-setup-snake-animation) below.
+<div align="center">
+<i>The snake will appear after you set up GitHub Actions - see instructions at the bottom!</i>
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
@@ -168,16 +136,6 @@ const paidguy = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## 📊 GitHub Metrics
-
-<div align="center">
-
-![Metrics](https://metrics.lecoq.io/paidguy?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.timezone=Asia%2FKolkata)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
 <div align="center">
 
 ## 💭 Quote of the Day
@@ -201,14 +159,29 @@ const paidguy = {
 
 ---
 
-## 🔧 Setup Snake Animation
+## 🔧 Want the Snake Animation?
 
-If you want the contribution snake animation:
+<details>
+<summary>Click here for setup instructions</summary>
 
-1. Create `.github/workflows/snake.yml` in your repository
-2. Add the workflow file (provided separately)
-3. Go to Settings → Actions → General
-4. Enable "Read and write permissions"
-5. Run the workflow manually from Actions tab
+### Step-by-step:
 
-The snake will appear after the first successful run!
+1. **Create the workflow file:**
+   - In your `paidguy` repository, create: `.github/workflows/snake.yml`
+   - Copy the content from the `snake.yml` file provided
+
+2. **Enable GitHub Actions:**
+   - Go to your repository **Settings**
+   - Click **Actions** → **General**
+   - Under "Workflow permissions", select **Read and write permissions**
+   - Click **Save**
+
+3. **Run the workflow:**
+   - Go to **Actions** tab
+   - Click "Generate Snake" workflow
+   - Click **Run workflow** → **Run workflow**
+   - Wait ~30 seconds
+
+4. **Done!** The snake will now appear above ↑
+
+</details>
