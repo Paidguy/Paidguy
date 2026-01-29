@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm paidguy
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Self-taught+Developer+%F0%9F%87%AE%F0%9F%87%B3;No+Formal+Background%2C+Just+Vibe+Coding;Shipping+Tools+with+AI+Help;Building+Cool+Stuff+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Self-taught+Developer+%F0%9F%87%AE%F0%9F%87%B3;No+Formal+Background%2C+Just+Vibe+Coding;Shipping+Tools+with+AI+Help;Building+Cool+Stuff+%F0%9F%9A%80" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -70,19 +70,42 @@ const paidguy = {
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=paidguy&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=paidguy&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=paidguy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=paidguy&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paidguy&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paidguy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="170"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=paidguy&bg_color=0d1117&color=fa8b00&line=fa8b00&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## 💻 Coding Metrics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paidguy&theme=radical" alt="Profile Details" width="100%"/>
 
 </div>
 
 <div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paidguy&theme=radical" alt="Repos per Language"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paidguy&theme=radical" alt="Most Commit Language"/>
+</div>
 
-### 📈 Contribution Graph
-[![paidguy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=paidguy&theme=tokyo-night&hide_border=true&area=true)](https://github.com/paidguy)
-
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=paidguy&theme=radical" alt="Stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=paidguy&theme=radical" alt="Productive Time"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
@@ -90,18 +113,8 @@ const paidguy = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=paidguy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-## ✍️ Dev Wisdom
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  
+![](https://github-profile-trophy.vercel.app/?username=paidguy&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
 
 </div>
 
@@ -111,20 +124,7 @@ const paidguy = {
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=paidguy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-## 🎨 Coding Activity
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=paidguy&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+![](https://github-contributor-stats.vercel.app/api?username=paidguy&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true)
 
 </div>
 
@@ -138,26 +138,73 @@ const paidguy = {
 
 </div>
 
+> **Note:** The snake animation will appear after you set up the GitHub Action. See the setup guide for instructions.
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## 💡 Random Dev Fact
+## ✍️ Dev Wisdom
 
 <div align="center">
 
-![](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## 👀 Profile Views
+## 💡 Random Dev Joke
+
+<div align="center">
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## 🔥 Streak Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=paidguy&theme=radical&hide_border=true&border_radius=10&card_width=800" alt="Streak Stats" width="100%"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## 👀 Profile Views & Visitors
 
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=paidguy&icon=5&color=6)](https://visitcount.itsvg.in)
 
+<img src="https://komarev.com/ghpvc/?username=paidguy&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## 💭 Quote of the Day
+
+<div align="center">
+
 ### ⚡ "Code is like humor. When you have to explain it, it's bad."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=75&animation=twinkling&fontColor=ffffff"/>
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🚀 Let's build something amazing together!
+
+[![GitHub followers](https://img.shields.io/github/followers/paidguy?style=social)](https://github.com/paidguy)
+[![GitHub stars](https://img.shields.io/github/stars/paidguy?style=social)](https://github.com/paidguy)
 
 </div>
