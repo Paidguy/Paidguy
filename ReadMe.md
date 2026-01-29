@@ -67,15 +67,6 @@ const paidguy = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=paidguy&show_icons=true&count_private=true&hide_border=true&title_color=fa8b00&icon_color=fa8b00&text_color=c9d1d9&bg_color=0d1117" alt="paidguy github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paidguy&layout=compact&hide_border=true&title_color=fa8b00&text_color=fa8b00&bg_color=0d1117" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
 ## 🔥 Streak Stats
 
 <div align="center">
