@@ -119,8 +119,6 @@ const paidguy = {
 
 <div align="center">
 
----
-
 <div align="center">
   
 ### 🚀 Let's build something amazing together!
