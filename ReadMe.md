@@ -119,14 +119,6 @@ const paidguy = {
 
 <div align="center">
 
-## 💭 Quote of the Day
-
-### ⚡ "Code is like humor. When you have to explain it, it's bad."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=75&animation=twinkling&fontColor=ffffff"/>
-
-</div>
-
 ---
 
 <div align="center">
