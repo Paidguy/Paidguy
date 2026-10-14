@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "30 18 * * *" # Runs daily at 00:00 IST (18:30 UTC)
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "README.md"
+      - ".github/workflows/waka-readme.yml"
 
 permissions:
   contents: write
@@ -16,12 +22,12 @@ jobs:
       - uses: anmol098/waka-readme-stats@v4
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
           SHOW_OS: "True"
           SHOW_PROJECTS: "True"
           SHOW_EDITORS: "True"
           SHOW_TIMEZONE: "False"
-          SHOW_COMMIT: "False"
+          SHOW_COMMIT: "True"
           SHOW_LANGUAGE: "True"
           SHOW_LINES_OF_CODE: "False"
           SHOW_LANGUAGE_PER_REPO: "True"
